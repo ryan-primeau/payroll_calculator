@@ -18,7 +18,7 @@ The tool is designed to provide a clear breakdown of gross income, deductions, a
 
 <h2>Environments Used </h2>
 
-- <b>MacOS Terminal</b> (21H2)
+- <b>MacOS Terminal</b> 
 
 <h2>Project walk-through:</h2>
 
